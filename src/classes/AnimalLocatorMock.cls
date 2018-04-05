@@ -9,5 +9,7 @@ global class AnimalLocatorMock implements HttpCalloutMock {
         response.setStatusCode(200);
         return response; 
         //Test Comment
+
+        //new line
     }
 }
