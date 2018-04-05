@@ -1,0 +1,17 @@
+{
+    "projectName": "SalesorceDev3",
+    "username": "ankitgoyaldev3@appirio.com",
+    "id": "a9bec480-389e-11e8-bd62-69365a7b99da",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://ankit-myfirstdomain-dev-ed.my.salesforce.com",
+    "workspace": "/Users/ankitgoyal/Documents",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}
